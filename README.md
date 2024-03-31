@@ -7,6 +7,8 @@ If you have idea for anything, tell me 👍🏼
 (loyerss_v2 on discord)
 ```
 
+![Game_image](https://raw.githubusercontent.com/Compute64bits/FarmaIsland/main/game.png)
+
 </br>
 Build requirements :
 
