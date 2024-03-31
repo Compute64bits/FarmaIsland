@@ -4,6 +4,7 @@ Go farm! Or just leave.
 ```
 It's my first game in c++, i make it for fun.
 If you have idea for anything, tell me 👍🏼
+(loyerss_v2 on discord)
 ```
 
 </br>
